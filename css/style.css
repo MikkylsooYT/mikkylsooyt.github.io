@@ -1,0 +1,31 @@
+html{
+	font-family: arial;
+	text-align: center;
+}
+h1{
+}
+div{
+	display: inline-block;
+	border: 5px solid black;
+	padding: 10px;
+	border-radius: 10px;
+}
+span{
+	border: 2px solid black;
+	padding: 5px;
+	line-height: 35px;
+	border-radius: 5px;
+}
+#divhead{
+	font-weight: bold;
+	border: none;
+}
+.hide{
+	display: none;
+}
+.nav{
+	
+}
+.clear{
+	border:none;
+}
